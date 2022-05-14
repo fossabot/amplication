@@ -15,6 +15,7 @@
   <a href="code_of_conduct.md">
     <img src="https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg" alt="Contributor Covenant">
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fyuval-hazaz%2Famplication?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyuval-hazaz%2Famplication.svg?type=shield"/></a>
   <a href="https://opensource.org/licenses/Apache-2.0">
     <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License">
   </a>
@@ -32,6 +33,9 @@
 Amplication is an open‑source development tool. It helps professional Node.js developers develop quality Node.js applications without spending time on repetitive coding tasks.
 
 Amplication auto-generates backend apps built with TypeScript and Node.js, and a client built with React.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyuval-hazaz%2Famplication.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyuval-hazaz%2Famplication?ref=badge_large)
 
 # Features
 
